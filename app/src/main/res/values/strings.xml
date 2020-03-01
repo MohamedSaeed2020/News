@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Latest News</string>
+    <string name="top_headlines">Top Headlines</string>
+    <string name="news_image">News Image</string>
+    <string name="author">Author</string>
+    <string name="date_image">Date Image</string>
+    <string name="_01_january_1990">01 January 1990</string>
+    <string name="title">Title</string>
+    <string name="desc">Desc</string>
+    <string name="source">Source</string>
+    <string name="time">Time</string>
+    <string name="errorimage">Error Image</string>
+    <string name="error_title">Error Title</string>
+    <string name="error_message">Error Message</string>
+    <string name="retry">Retry</string>
+    <string name="search">Search</string>
+    <string name="top_shadow">Top Shadow</string>
+    <string name="bottom_shadow">Bottom Shadow</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="news_for_you">News for you</string>
+    <string name="title_of_news">Title of News</string>
+    <string name="a_time_ago">a time ago</string>
+    <string name="share">Share</string>
+    <string name="open_with_brother">Open with brother</string>
+</resources>
