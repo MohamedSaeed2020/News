@@ -15,7 +15,7 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 * Prettytime for Convert Java Date() objects in just “a few minutes!”
 * Transition animation
 
-#Features
+# Features
 * Latest news based on your country
 * You can search on large number of news based on any keyword
 * You can open any news on any web browser 
