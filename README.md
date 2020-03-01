@@ -20,3 +20,6 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 * You can search on large number of news based on any keyword
 * You can open any news on any web browser 
 * You can share any article from the app using large number of apps such whatsApp, telegram and email
+
+#The APK file link
+https://drive.google.com/open?id=10DyHRhBzg7dWXfKdN2YgR5NM8ORtXq6D
