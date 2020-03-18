@@ -1,6 +1,6 @@
 # Latest News
 News application using the API from newsapi.org https://newsapi.org/
-API News Is JSON API for live news and blog articles from the media. This project uses retrofit2 as HTTP Clent, 
+API News Is JSON API for live news and blog articles from the media. This project uses retrofit2 as HTTP Client, 
 Retrofit is a REST Client for Java and Android. Its use is very easy.
 
 # Screenshot
