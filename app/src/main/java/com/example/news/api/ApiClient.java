@@ -17,7 +17,7 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class ApiClient {
 
-    private static final String BASE_URL = "http://newsapi.org/v2/"; //Note we removed https:// and make it just http:// without [s]
+    private static final String BASE_URL = "https://newsapi.org/v2/"; //Note we removed https:// and make it just http:// without [s]
     private static Retrofit retrofit;
 
     public static Retrofit getApiClient() {
