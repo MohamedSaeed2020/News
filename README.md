@@ -22,4 +22,4 @@ Retrofit is a REST Client for Java and Android. Its use is very easy.
 * You can share any article from the app using large number of apps such whatsApp, telegram and email
 
 # The APK file link
-https://dl.orangedox.com/baojaqkHHEX9xXqAjt
+https://dl.orangedox.com/Q8pTeprsuT6txayaP7
